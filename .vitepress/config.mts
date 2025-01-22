@@ -8,7 +8,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/atomic-doc' },
+      { text: 'Главная', link: '/' },
     ],
 
     socialLinks: [
