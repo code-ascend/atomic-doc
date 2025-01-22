@@ -2,6 +2,7 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+
 hero:
   name: "Alt Atomic"
   tagline: Атомарный облачный дистрибутив на базе новейших технологий
