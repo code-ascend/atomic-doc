@@ -125,4 +125,3 @@ RUN apt-get install nmap
 - Основной репозиторий сборки https://github.com/SkyWar-design/alt-atomic
 - Помощник и установщик системы https://github.com/SkyWar-design/atomic-actions
 - Форк bootupd https://github.com/SkyWar-design/bootupd
-- Форк bootc https://github.com/SkyWar-design/bootc
